@@ -1,0 +1,1001 @@
+id,predicted_price_range,predicted_price_label
+1,3,Muito Alto
+2,3,Muito Alto
+3,2,Alto
+4,3,Muito Alto
+5,1,Médio
+6,3,Muito Alto
+7,3,Muito Alto
+8,1,Médio
+9,3,Muito Alto
+10,0,Baixo
+11,3,Muito Alto
+12,3,Muito Alto
+13,0,Baixo
+14,0,Baixo
+15,2,Alto
+16,0,Baixo
+17,2,Alto
+18,1,Médio
+19,3,Muito Alto
+20,2,Alto
+21,1,Médio
+22,3,Muito Alto
+23,1,Médio
+24,1,Médio
+25,3,Muito Alto
+26,0,Baixo
+27,2,Alto
+28,0,Baixo
+29,3,Muito Alto
+30,0,Baixo
+31,2,Alto
+32,0,Baixo
+33,3,Muito Alto
+34,0,Baixo
+35,1,Médio
+36,1,Médio
+37,3,Muito Alto
+38,1,Médio
+39,2,Alto
+40,1,Médio
+41,1,Médio
+42,2,Alto
+43,0,Baixo
+44,0,Baixo
+45,0,Baixo
+46,1,Médio
+47,0,Baixo
+48,3,Muito Alto
+49,1,Médio
+50,2,Alto
+51,1,Médio
+52,0,Baixo
+53,3,Muito Alto
+54,0,Baixo
+55,3,Muito Alto
+56,0,Baixo
+57,3,Muito Alto
+58,1,Médio
+59,1,Médio
+60,3,Muito Alto
+61,3,Muito Alto
+62,3,Muito Alto
+63,0,Baixo
+64,1,Médio
+65,1,Médio
+66,1,Médio
+67,2,Alto
+68,3,Muito Alto
+69,1,Médio
+70,2,Alto
+71,1,Médio
+72,2,Alto
+73,2,Alto
+74,3,Muito Alto
+75,3,Muito Alto
+76,0,Baixo
+77,2,Alto
+78,0,Baixo
+79,1,Médio
+80,3,Muito Alto
+81,0,Baixo
+82,3,Muito Alto
+83,3,Muito Alto
+84,0,Baixo
+85,3,Muito Alto
+86,0,Baixo
+87,3,Muito Alto
+88,1,Médio
+89,3,Muito Alto
+90,0,Baixo
+91,1,Médio
+92,2,Alto
+93,2,Alto
+94,1,Médio
+95,2,Alto
+96,2,Alto
+97,1,Médio
+98,2,Alto
+99,1,Médio
+100,2,Alto
+101,1,Médio
+102,0,Baixo
+103,0,Baixo
+104,3,Muito Alto
+105,0,Baixo
+106,2,Alto
+107,0,Baixo
+108,1,Médio
+109,2,Alto
+110,3,Muito Alto
+111,3,Muito Alto
+112,3,Muito Alto
+113,1,Médio
+114,3,Muito Alto
+115,3,Muito Alto
+116,3,Muito Alto
+117,3,Muito Alto
+118,2,Alto
+119,3,Muito Alto
+120,0,Baixo
+121,0,Baixo
+122,3,Muito Alto
+123,2,Alto
+124,1,Médio
+125,2,Alto
+126,0,Baixo
+127,3,Muito Alto
+128,2,Alto
+129,2,Alto
+130,2,Alto
+131,0,Baixo
+132,2,Alto
+133,2,Alto
+134,1,Médio
+135,3,Muito Alto
+136,1,Médio
+137,1,Médio
+138,0,Baixo
+139,3,Muito Alto
+140,2,Alto
+141,1,Médio
+142,2,Alto
+143,1,Médio
+144,3,Muito Alto
+145,2,Alto
+146,3,Muito Alto
+147,3,Muito Alto
+148,3,Muito Alto
+149,2,Alto
+150,3,Muito Alto
+151,2,Alto
+152,3,Muito Alto
+153,1,Médio
+154,0,Baixo
+155,3,Muito Alto
+156,2,Alto
+157,3,Muito Alto
+158,3,Muito Alto
+159,3,Muito Alto
+160,3,Muito Alto
+161,3,Muito Alto
+162,2,Alto
+163,3,Muito Alto
+164,3,Muito Alto
+165,3,Muito Alto
+166,3,Muito Alto
+167,1,Médio
+168,0,Baixo
+169,3,Muito Alto
+170,0,Baixo
+171,0,Baixo
+172,0,Baixo
+173,2,Alto
+174,1,Médio
+175,0,Baixo
+176,1,Médio
+177,0,Baixo
+178,0,Baixo
+179,1,Médio
+180,2,Alto
+181,1,Médio
+182,0,Baixo
+183,0,Baixo
+184,1,Médio
+185,1,Médio
+186,2,Alto
+187,2,Alto
+188,1,Médio
+189,0,Baixo
+190,0,Baixo
+191,0,Baixo
+192,1,Médio
+193,0,Baixo
+194,3,Muito Alto
+195,1,Médio
+196,0,Baixo
+197,2,Alto
+198,2,Alto
+199,3,Muito Alto
+200,3,Muito Alto
+201,1,Médio
+202,2,Alto
+203,3,Muito Alto
+204,2,Alto
+205,3,Muito Alto
+206,2,Alto
+207,2,Alto
+208,1,Médio
+209,0,Baixo
+210,0,Baixo
+211,1,Médio
+212,3,Muito Alto
+213,0,Baixo
+214,2,Alto
+215,3,Muito Alto
+216,3,Muito Alto
+217,0,Baixo
+218,2,Alto
+219,0,Baixo
+220,3,Muito Alto
+221,2,Alto
+222,3,Muito Alto
+223,3,Muito Alto
+224,1,Médio
+225,0,Baixo
+226,1,Médio
+227,0,Baixo
+228,3,Muito Alto
+229,0,Baixo
+230,1,Médio
+231,0,Baixo
+232,2,Alto
+233,2,Alto
+234,1,Médio
+235,3,Muito Alto
+236,1,Médio
+237,3,Muito Alto
+238,0,Baixo
+239,3,Muito Alto
+240,1,Médio
+241,2,Alto
+242,0,Baixo
+243,0,Baixo
+244,2,Alto
+245,1,Médio
+246,3,Muito Alto
+247,3,Muito Alto
+248,3,Muito Alto
+249,1,Médio
+250,1,Médio
+251,3,Muito Alto
+252,0,Baixo
+253,0,Baixo
+254,2,Alto
+255,3,Muito Alto
+256,3,Muito Alto
+257,1,Médio
+258,3,Muito Alto
+259,1,Médio
+260,1,Médio
+261,3,Muito Alto
+262,2,Alto
+263,1,Médio
+264,2,Alto
+265,3,Muito Alto
+266,3,Muito Alto
+267,3,Muito Alto
+268,1,Médio
+269,0,Baixo
+270,0,Baixo
+271,2,Alto
+272,3,Muito Alto
+273,1,Médio
+274,1,Médio
+275,3,Muito Alto
+276,2,Alto
+277,0,Baixo
+278,3,Muito Alto
+279,0,Baixo
+280,0,Baixo
+281,3,Muito Alto
+282,0,Baixo
+283,0,Baixo
+284,3,Muito Alto
+285,2,Alto
+286,3,Muito Alto
+287,3,Muito Alto
+288,2,Alto
+289,1,Médio
+290,3,Muito Alto
+291,3,Muito Alto
+292,2,Alto
+293,3,Muito Alto
+294,1,Médio
+295,2,Alto
+296,1,Médio
+297,2,Alto
+298,0,Baixo
+299,2,Alto
+300,3,Muito Alto
+301,1,Médio
+302,0,Baixo
+303,0,Baixo
+304,3,Muito Alto
+305,0,Baixo
+306,3,Muito Alto
+307,0,Baixo
+308,1,Médio
+309,2,Alto
+310,0,Baixo
+311,2,Alto
+312,3,Muito Alto
+313,1,Médio
+314,3,Muito Alto
+315,2,Alto
+316,2,Alto
+317,1,Médio
+318,2,Alto
+319,0,Baixo
+320,0,Baixo
+321,0,Baixo
+322,1,Médio
+323,3,Muito Alto
+324,2,Alto
+325,0,Baixo
+326,0,Baixo
+327,0,Baixo
+328,3,Muito Alto
+329,2,Alto
+330,0,Baixo
+331,2,Alto
+332,3,Muito Alto
+333,1,Médio
+334,2,Alto
+335,2,Alto
+336,2,Alto
+337,3,Muito Alto
+338,1,Médio
+339,3,Muito Alto
+340,3,Muito Alto
+341,2,Alto
+342,2,Alto
+343,2,Alto
+344,3,Muito Alto
+345,3,Muito Alto
+346,0,Baixo
+347,3,Muito Alto
+348,0,Baixo
+349,3,Muito Alto
+350,1,Médio
+351,3,Muito Alto
+352,1,Médio
+353,2,Alto
+354,3,Muito Alto
+355,0,Baixo
+356,1,Médio
+357,0,Baixo
+358,3,Muito Alto
+359,1,Médio
+360,3,Muito Alto
+361,2,Alto
+362,3,Muito Alto
+363,0,Baixo
+364,0,Baixo
+365,0,Baixo
+366,0,Baixo
+367,2,Alto
+368,0,Baixo
+369,0,Baixo
+370,2,Alto
+371,2,Alto
+372,1,Médio
+373,2,Alto
+374,2,Alto
+375,2,Alto
+376,0,Baixo
+377,1,Médio
+378,0,Baixo
+379,0,Baixo
+380,3,Muito Alto
+381,2,Alto
+382,0,Baixo
+383,3,Muito Alto
+384,1,Médio
+385,2,Alto
+386,2,Alto
+387,1,Médio
+388,2,Alto
+389,3,Muito Alto
+390,1,Médio
+391,1,Médio
+392,2,Alto
+393,2,Alto
+394,1,Médio
+395,2,Alto
+396,0,Baixo
+397,1,Médio
+398,1,Médio
+399,0,Baixo
+400,3,Muito Alto
+401,2,Alto
+402,1,Médio
+403,0,Baixo
+404,1,Médio
+405,0,Baixo
+406,0,Baixo
+407,1,Médio
+408,1,Médio
+409,0,Baixo
+410,0,Baixo
+411,0,Baixo
+412,2,Alto
+413,2,Alto
+414,3,Muito Alto
+415,2,Alto
+416,3,Muito Alto
+417,0,Baixo
+418,3,Muito Alto
+419,0,Baixo
+420,3,Muito Alto
+421,0,Baixo
+422,1,Médio
+423,1,Médio
+424,0,Baixo
+425,2,Alto
+426,0,Baixo
+427,3,Muito Alto
+428,2,Alto
+429,3,Muito Alto
+430,3,Muito Alto
+431,1,Médio
+432,3,Muito Alto
+433,1,Médio
+434,3,Muito Alto
+435,1,Médio
+436,3,Muito Alto
+437,2,Alto
+438,0,Baixo
+439,1,Médio
+440,2,Alto
+441,1,Médio
+442,1,Médio
+443,0,Baixo
+444,0,Baixo
+445,0,Baixo
+446,1,Médio
+447,2,Alto
+448,1,Médio
+449,0,Baixo
+450,3,Muito Alto
+451,2,Alto
+452,0,Baixo
+453,2,Alto
+454,2,Alto
+455,0,Baixo
+456,0,Baixo
+457,3,Muito Alto
+458,1,Médio
+459,2,Alto
+460,0,Baixo
+461,2,Alto
+462,3,Muito Alto
+463,3,Muito Alto
+464,0,Baixo
+465,3,Muito Alto
+466,0,Baixo
+467,2,Alto
+468,3,Muito Alto
+469,2,Alto
+470,3,Muito Alto
+471,0,Baixo
+472,2,Alto
+473,0,Baixo
+474,2,Alto
+475,3,Muito Alto
+476,0,Baixo
+477,1,Médio
+478,1,Médio
+479,0,Baixo
+480,0,Baixo
+481,1,Médio
+482,1,Médio
+483,1,Médio
+484,3,Muito Alto
+485,3,Muito Alto
+486,3,Muito Alto
+487,2,Alto
+488,3,Muito Alto
+489,1,Médio
+490,2,Alto
+491,2,Alto
+492,3,Muito Alto
+493,3,Muito Alto
+494,3,Muito Alto
+495,2,Alto
+496,0,Baixo
+497,2,Alto
+498,1,Médio
+499,2,Alto
+500,2,Alto
+501,1,Médio
+502,0,Baixo
+503,2,Alto
+504,2,Alto
+505,0,Baixo
+506,0,Baixo
+507,0,Baixo
+508,3,Muito Alto
+509,1,Médio
+510,0,Baixo
+511,2,Alto
+512,2,Alto
+513,2,Alto
+514,0,Baixo
+515,3,Muito Alto
+516,1,Médio
+517,2,Alto
+518,2,Alto
+519,1,Médio
+520,3,Muito Alto
+521,0,Baixo
+522,2,Alto
+523,3,Muito Alto
+524,0,Baixo
+525,1,Médio
+526,1,Médio
+527,3,Muito Alto
+528,3,Muito Alto
+529,2,Alto
+530,1,Médio
+531,1,Médio
+532,3,Muito Alto
+533,2,Alto
+534,0,Baixo
+535,3,Muito Alto
+536,1,Médio
+537,2,Alto
+538,0,Baixo
+539,3,Muito Alto
+540,3,Muito Alto
+541,1,Médio
+542,3,Muito Alto
+543,2,Alto
+544,2,Alto
+545,3,Muito Alto
+546,0,Baixo
+547,1,Médio
+548,2,Alto
+549,3,Muito Alto
+550,1,Médio
+551,3,Muito Alto
+552,2,Alto
+553,3,Muito Alto
+554,1,Médio
+555,1,Médio
+556,0,Baixo
+557,0,Baixo
+558,3,Muito Alto
+559,1,Médio
+560,0,Baixo
+561,3,Muito Alto
+562,2,Alto
+563,3,Muito Alto
+564,3,Muito Alto
+565,0,Baixo
+566,3,Muito Alto
+567,3,Muito Alto
+568,3,Muito Alto
+569,2,Alto
+570,3,Muito Alto
+571,3,Muito Alto
+572,1,Médio
+573,2,Alto
+574,0,Baixo
+575,2,Alto
+576,2,Alto
+577,3,Muito Alto
+578,1,Médio
+579,0,Baixo
+580,1,Médio
+581,1,Médio
+582,2,Alto
+583,2,Alto
+584,2,Alto
+585,0,Baixo
+586,0,Baixo
+587,2,Alto
+588,2,Alto
+589,3,Muito Alto
+590,2,Alto
+591,0,Baixo
+592,2,Alto
+593,1,Médio
+594,3,Muito Alto
+595,3,Muito Alto
+596,0,Baixo
+597,1,Médio
+598,3,Muito Alto
+599,0,Baixo
+600,2,Alto
+601,1,Médio
+602,1,Médio
+603,0,Baixo
+604,0,Baixo
+605,2,Alto
+606,1,Médio
+607,0,Baixo
+608,1,Médio
+609,1,Médio
+610,2,Alto
+611,2,Alto
+612,0,Baixo
+613,2,Alto
+614,2,Alto
+615,1,Médio
+616,0,Baixo
+617,3,Muito Alto
+618,0,Baixo
+619,0,Baixo
+620,3,Muito Alto
+621,2,Alto
+622,0,Baixo
+623,0,Baixo
+624,0,Baixo
+625,0,Baixo
+626,0,Baixo
+627,3,Muito Alto
+628,0,Baixo
+629,3,Muito Alto
+630,1,Médio
+631,3,Muito Alto
+632,2,Alto
+633,1,Médio
+634,3,Muito Alto
+635,3,Muito Alto
+636,0,Baixo
+637,1,Médio
+638,0,Baixo
+639,3,Muito Alto
+640,2,Alto
+641,2,Alto
+642,2,Alto
+643,0,Baixo
+644,3,Muito Alto
+645,0,Baixo
+646,2,Alto
+647,0,Baixo
+648,2,Alto
+649,0,Baixo
+650,0,Baixo
+651,1,Médio
+652,1,Médio
+653,1,Médio
+654,2,Alto
+655,1,Médio
+656,3,Muito Alto
+657,1,Médio
+658,3,Muito Alto
+659,2,Alto
+660,2,Alto
+661,1,Médio
+662,3,Muito Alto
+663,2,Alto
+664,0,Baixo
+665,2,Alto
+666,2,Alto
+667,0,Baixo
+668,3,Muito Alto
+669,3,Muito Alto
+670,0,Baixo
+671,2,Alto
+672,1,Médio
+673,1,Médio
+674,2,Alto
+675,0,Baixo
+676,3,Muito Alto
+677,2,Alto
+678,0,Baixo
+679,3,Muito Alto
+680,2,Alto
+681,3,Muito Alto
+682,0,Baixo
+683,0,Baixo
+684,3,Muito Alto
+685,0,Baixo
+686,2,Alto
+687,2,Alto
+688,3,Muito Alto
+689,2,Alto
+690,2,Alto
+691,2,Alto
+692,2,Alto
+693,1,Médio
+694,2,Alto
+695,3,Muito Alto
+696,0,Baixo
+697,1,Médio
+698,0,Baixo
+699,1,Médio
+700,2,Alto
+701,1,Médio
+702,0,Baixo
+703,0,Baixo
+704,1,Médio
+705,0,Baixo
+706,0,Baixo
+707,3,Muito Alto
+708,0,Baixo
+709,1,Médio
+710,2,Alto
+711,0,Baixo
+712,1,Médio
+713,1,Médio
+714,1,Médio
+715,3,Muito Alto
+716,0,Baixo
+717,3,Muito Alto
+718,2,Alto
+719,3,Muito Alto
+720,0,Baixo
+721,0,Baixo
+722,1,Médio
+723,2,Alto
+724,2,Alto
+725,1,Médio
+726,0,Baixo
+727,1,Médio
+728,1,Médio
+729,0,Baixo
+730,1,Médio
+731,1,Médio
+732,0,Baixo
+733,0,Baixo
+734,3,Muito Alto
+735,3,Muito Alto
+736,0,Baixo
+737,3,Muito Alto
+738,1,Médio
+739,1,Médio
+740,3,Muito Alto
+741,0,Baixo
+742,1,Médio
+743,0,Baixo
+744,2,Alto
+745,2,Alto
+746,0,Baixo
+747,3,Muito Alto
+748,1,Médio
+749,0,Baixo
+750,3,Muito Alto
+751,1,Médio
+752,1,Médio
+753,0,Baixo
+754,3,Muito Alto
+755,3,Muito Alto
+756,3,Muito Alto
+757,2,Alto
+758,3,Muito Alto
+759,0,Baixo
+760,3,Muito Alto
+761,2,Alto
+762,0,Baixo
+763,0,Baixo
+764,0,Baixo
+765,3,Muito Alto
+766,3,Muito Alto
+767,2,Alto
+768,0,Baixo
+769,2,Alto
+770,1,Médio
+771,3,Muito Alto
+772,0,Baixo
+773,0,Baixo
+774,2,Alto
+775,2,Alto
+776,0,Baixo
+777,3,Muito Alto
+778,1,Médio
+779,2,Alto
+780,1,Médio
+781,1,Médio
+782,1,Médio
+783,3,Muito Alto
+784,1,Médio
+785,1,Médio
+786,1,Médio
+787,2,Alto
+788,1,Médio
+789,0,Baixo
+790,2,Alto
+791,2,Alto
+792,0,Baixo
+793,2,Alto
+794,0,Baixo
+795,0,Baixo
+796,0,Baixo
+797,0,Baixo
+798,2,Alto
+799,3,Muito Alto
+800,3,Muito Alto
+801,3,Muito Alto
+802,0,Baixo
+803,1,Médio
+804,2,Alto
+805,1,Médio
+806,1,Médio
+807,0,Baixo
+808,0,Baixo
+809,2,Alto
+810,1,Médio
+811,0,Baixo
+812,2,Alto
+813,0,Baixo
+814,3,Muito Alto
+815,2,Alto
+816,2,Alto
+817,1,Médio
+818,2,Alto
+819,0,Baixo
+820,2,Alto
+821,1,Médio
+822,3,Muito Alto
+823,0,Baixo
+824,0,Baixo
+825,3,Muito Alto
+826,2,Alto
+827,3,Muito Alto
+828,0,Baixo
+829,0,Baixo
+830,2,Alto
+831,3,Muito Alto
+832,3,Muito Alto
+833,1,Médio
+834,3,Muito Alto
+835,2,Alto
+836,1,Médio
+837,0,Baixo
+838,0,Baixo
+839,3,Muito Alto
+840,3,Muito Alto
+841,1,Médio
+842,3,Muito Alto
+843,0,Baixo
+844,0,Baixo
+845,0,Baixo
+846,2,Alto
+847,2,Alto
+848,1,Médio
+849,2,Alto
+850,0,Baixo
+851,3,Muito Alto
+852,2,Alto
+853,1,Médio
+854,2,Alto
+855,3,Muito Alto
+856,3,Muito Alto
+857,0,Baixo
+858,1,Médio
+859,1,Médio
+860,2,Alto
+861,1,Médio
+862,2,Alto
+863,2,Alto
+864,0,Baixo
+865,1,Médio
+866,3,Muito Alto
+867,1,Médio
+868,1,Médio
+869,3,Muito Alto
+870,0,Baixo
+871,2,Alto
+872,3,Muito Alto
+873,2,Alto
+874,1,Médio
+875,1,Médio
+876,1,Médio
+877,3,Muito Alto
+878,3,Muito Alto
+879,0,Baixo
+880,2,Alto
+881,3,Muito Alto
+882,0,Baixo
+883,2,Alto
+884,3,Muito Alto
+885,2,Alto
+886,2,Alto
+887,2,Alto
+888,3,Muito Alto
+889,2,Alto
+890,0,Baixo
+891,1,Médio
+892,2,Alto
+893,1,Médio
+894,2,Alto
+895,1,Médio
+896,1,Médio
+897,2,Alto
+898,2,Alto
+899,2,Alto
+900,1,Médio
+901,2,Alto
+902,1,Médio
+903,0,Baixo
+904,1,Médio
+905,3,Muito Alto
+906,1,Médio
+907,0,Baixo
+908,1,Médio
+909,2,Alto
+910,3,Muito Alto
+911,1,Médio
+912,0,Baixo
+913,0,Baixo
+914,3,Muito Alto
+915,2,Alto
+916,2,Alto
+917,3,Muito Alto
+918,0,Baixo
+919,3,Muito Alto
+920,2,Alto
+921,2,Alto
+922,1,Médio
+923,3,Muito Alto
+924,0,Baixo
+925,1,Médio
+926,3,Muito Alto
+927,1,Médio
+928,1,Médio
+929,1,Médio
+930,2,Alto
+931,3,Muito Alto
+932,2,Alto
+933,0,Baixo
+934,3,Muito Alto
+935,0,Baixo
+936,2,Alto
+937,3,Muito Alto
+938,0,Baixo
+939,3,Muito Alto
+940,1,Médio
+941,3,Muito Alto
+942,3,Muito Alto
+943,1,Médio
+944,0,Baixo
+945,2,Alto
+946,3,Muito Alto
+947,1,Médio
+948,0,Baixo
+949,2,Alto
+950,1,Médio
+951,2,Alto
+952,1,Médio
+953,2,Alto
+954,0,Baixo
+955,2,Alto
+956,2,Alto
+957,0,Baixo
+958,2,Alto
+959,3,Muito Alto
+960,2,Alto
+961,3,Muito Alto
+962,0,Baixo
+963,2,Alto
+964,1,Médio
+965,1,Médio
+966,2,Alto
+967,2,Alto
+968,3,Muito Alto
+969,3,Muito Alto
+970,0,Baixo
+971,2,Alto
+972,1,Médio
+973,2,Alto
+974,1,Médio
+975,3,Muito Alto
+976,1,Médio
+977,1,Médio
+978,3,Muito Alto
+979,0,Baixo
+980,1,Médio
+981,0,Baixo
+982,0,Baixo
+983,3,Muito Alto
+984,3,Muito Alto
+985,2,Alto
+986,0,Baixo
+987,0,Baixo
+988,0,Baixo
+989,0,Baixo
+990,3,Muito Alto
+991,2,Alto
+992,3,Muito Alto
+993,3,Muito Alto
+994,0,Baixo
+995,0,Baixo
+996,2,Alto
+997,1,Médio
+998,0,Baixo
+999,2,Alto
+1000,2,Alto
