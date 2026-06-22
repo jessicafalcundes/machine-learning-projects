@@ -18,29 +18,46 @@ Este repositório tem como objetivo documentar minha evolução prática em Mach
 
 ## Projetos
 
-### 01. Insurance Medical Cost
+### Fase 1: Regressão e previsão contínua
 
-Projeto de regressão com o objetivo de prever custos médicos a partir de informações individuais dos pacientes.
+#### Projeto 1: Regressão Linear Simples (Baseline)
 
-O estudo explora variáveis como idade, IMC, região, número de dependentes e tabagismo, com foco em análise exploratória e regressão linear.
+- **Tema:** Previsão de Custos Médicos
+- **Dataset sugerido:** Medical Cost Personal Datasets (Kaggle)
+- **Desafio:** prever o custo do seguro médico de uma pessoa com base em idade, IMC e hábitos
+- **Conceitos-chave:** correlação, p-valor, interpretação de coeficientes, erro quadrático (RMSE)
 
-### 02. Car Price Prediction
+#### Projeto 2: Regressão com Regularização (Lasso/Ridge)
 
-Projeto de regressão com o objetivo de prever preços de carros com base em características presentes na base de dados.
+- **Tema:** Precificação de Veículos Usados
+- **Dataset sugerido:** Used Cars Price Prediction
+- **Desafio:** prever o preço de revenda lidando com múltiplas variáveis categóricas, como marca, versão e localização
+- **Conceitos-chave:** One-Hot Encoding, multicolinearidade, overfitting vs. underfitting, regularização L1/L2
 
-O foco está na exploração dos dados, no tratamento de variáveis categóricas e numéricas e na comparação entre modelos lineares e regressões regularizadas.
+#### Projeto 3: Regressão Não-Linear (Ensembles)
 
-### 03. Flight Price Prediction
+- **Tema:** Previsão de Preços de Passagens Aéreas
+- **Dataset sugerido:** Flight Price Prediction
+- **Desafio:** capturar relações complexas e não-lineares, como o efeito de dias até o voo no preço
+- **Conceitos-chave:** Random Forest Regressor, XGBoost, comparação de modelos baseados em árvore vs. lineares
 
-Projeto de regressão com o objetivo de prever preços de passagens aéreas a partir de atributos como companhia, rota, horários e classe do voo.
+### Fase 2: Classificação e decisão
 
-O projeto trabalha análise exploratória, construção de variáveis e comparação entre modelos de regressão para estimativa de preços.
+Foco: separar classes, lidar com probabilidade e interpretar decisões dos modelos.
 
-### 04. Mobile Price Classification
+#### Projeto 4: Classificação Multiclasse Simples
 
-Projeto de classificação multiclasse com o objetivo de prever a faixa de preço de celulares a partir de suas características técnicas.
+- **Tema:** Classificação de Faixa de Preço de Celulares
+- **Dataset sugerido:** Mobile Price Classification
+- **Desafio:** determinar se um celular é de custo baixo, médio, alto ou muito alto com base nas especificações
+- **Conceitos-chave:** Feature Selection, matriz de confusão, acurácia
 
-O problema considera atributos como memória RAM, bateria, resolução de tela, conectividade e câmera, comparando diferentes algoritmos de classificação.
+#### Projeto 5: Support Vector Machines (SVM)
+
+- **Tema:** Reconhecimento de Atividade Humana (HAR)
+- **Dataset sugerido:** Human Activity Recognition with Smartphones
+- **Desafio:** classificar atividades como andar, sentar e deitar usando dados de sensores
+- **Conceitos-chave:** hiperplanos, margens, Kernel Trick (RBF vs Linear), alta dimensionalidade
 
 ## Tecnologias utilizadas
 
@@ -80,6 +97,9 @@ machine-learning-projects/
 │   ├── data/
 │   └── notebooks/
 ├── 04-mobile-price-classification/
+│   ├── data/
+│   └── notebooks/
+├── 05-human-activity-recognition/
 │   ├── data/
 │   └── notebooks/
 └── README.md
